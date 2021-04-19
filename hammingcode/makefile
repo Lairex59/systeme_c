@@ -1,2 +1,2 @@
-generator: test.c
-	gcc -o generator test.c
+hamming: test.c
+	gcc -o hamming test.c
